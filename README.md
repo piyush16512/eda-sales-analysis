@@ -31,4 +31,5 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an automob
 - Open the notebook Automobile_Sales_EDA.ipynb in Jupyter Notebook and run the cells sequentially to explore the analysis.
 
 **👤 Author**
+
 **Piyush Kumar**
