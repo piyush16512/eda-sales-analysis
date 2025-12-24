@@ -1,6 +1,6 @@
 **📊 Automobile Sales – Exploratory Data Analysis (EDA)**
 
-**About the Project**
+**About the Project**: 
 This project focuses on performing Exploratory Data Analysis (EDA) on an automobile sales dataset to understand sales trends, customer behavior and product performance. The analysis was done using Python in Jupyter Notebook with a strong focus on data cleaning.
 
 **Dataset**
