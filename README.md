@@ -14,27 +14,17 @@ This project focuses on performing Exploratory Data Analysis (EDA) on an automob
 
 - Customer and country-level data
 
-**Tools**
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
+**Tools**: Python, Pandas, NumPy, Matplotlib / Seaborn, Jupyter Notebook
 
 **What I Did**
 
-Cleaned and preprocessed raw sales data
+- Cleaned and preprocessed raw sales data
 
-Analyzed sales trends over time
+- Analyzed sales trends over time
 
-Performed product line and country-wise analysis
+- Performed product line and country-wise analysis
 
-Identified key patterns and business insights
+- Identified key patterns and business insights
 
 **How to Use**
 
